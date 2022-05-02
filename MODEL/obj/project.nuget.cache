@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZsGQCS/hjmV03WZgHTEh0ykQe2ggkcuwRMIvnDHPSV48l7buhJRACR95JY0H0Kbf4BW7NFSQlaAQ73uy7pC3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago\\Desktop\\Aprendendo\\OverMind\\MODEL\\MODEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

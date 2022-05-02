@@ -1,0 +1,10 @@
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\bin\Debug\netstandard2.0\MODEL.deps.json
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\bin\Debug\netstandard2.0\MODEL.dll
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\bin\Debug\netstandard2.0\MODEL.pdb
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\obj\Debug\netstandard2.0\MODEL.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\obj\Debug\netstandard2.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\obj\Debug\netstandard2.0\MODEL.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\obj\Debug\netstandard2.0\MODEL.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\obj\Debug\netstandard2.0\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\obj\Debug\netstandard2.0\MODEL.dll
+C:\Users\Thiago\Desktop\Aprendendo\ClassLibrary1\MODEL\obj\Debug\netstandard2.0\MODEL.pdb
